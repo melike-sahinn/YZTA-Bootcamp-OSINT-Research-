@@ -22,9 +22,9 @@ Belediyelerle daha bilinçli ve yapıcı iletişim kurabilirler.
 
 ---
 
-🚀 1. Sprint Kapsamı
+ 1. Sprint Kapsamı
 
-🧱 Hedeflenen Çıktılar:
+ Hedeflenen Çıktılar:
 
 Proje fikrinin netleştirilmesi
 
@@ -43,22 +43,23 @@ Teknoloji stack’inin belirlenmesi
 Wireframe ve logo tasarımının tamamlanması
 
 
-✅ Tamamlananlar:
+ Tamamlananlar:
 
 Görev	Durum	Açıklama
 
-Proje vizyon dokümanı oluşturuldu	✅	Eğitim temasına uygunluk ve toplumsal katkı açıklandı
-Takım rolleri netleşti	✅	Herkesin görevi belirlendi
-User Story & Product Backlog oluşturuldu	✅	Modlar ve senaryolar tanımlandı
-Teknoloji altyapısı belirlendi	✅	Streamlit, FastAPI, GPT-4 gibi
-Wireframe ve sosyal medya görseli üretildi	✅	Logo da dahil
-Chatbot mantığı planlandı	✅	Soru türlerine göre rehberlik/otomatik çıktı sunacak yapı netleşti
+Proje vizyon dokümanı oluşturuldu		Eğitim temasına uygunluk ve toplumsal katkı açıklandı
+Takım rolleri netleşti	
+Herkesin görevi belirlendi
+User Story & Product Backlog oluşturuldu		Modlar ve senaryolar tanımlandı
+Teknoloji altyapısı belirlendi	Streamlit, FastAPI, GPT-4 gibi
+Wireframe ve sosyal medya görseli üretildi		Logo da dahil
+Chatbot mantığı planlandı		Soru türlerine göre rehberlik/otomatik çıktı sunacak yapı netleşti
 
 
 
 ---
 
-📌 Öne Çıkan User Story’ler
+ Öne Çıkan User Story’ler
 
 Kullanıcı İsteği	Ne Yapılacak	Katkısı
 
@@ -71,23 +72,23 @@ Kullanıcı İsteği	Ne Yapılacak	Katkısı
 
 ---
 
-📊 Kullanıcı Profilleri
+ Kullanıcı Profilleri
 
-🧑‍🎓 Üniversite öğrencileri
+ Üniversite öğrencileri
 
-🏘️ Mahalle sakinleri
+ Mahalle sakinleri
 
-👥 STK çalışanları
+ STK çalışanları
 
-👨‍🏫 Eğitimciler
+ Eğitimciler
 
-🚀 Girişimci adayları
+ Girişimci adayları
 
 
 
 ---
 
-🧠 Öğrenme ve Teknik Gelişim Planı
+Öğrenme ve Teknik Gelişim Planı
 
 Alan	Gelişime Açık Noktalar	Eylem
 
@@ -99,7 +100,7 @@ UI geliştirme	Wireframe hazır, frontend framework belirlenecek	Streamlit ile b
 
 ---
 
-🧩 Bir Sonraki Sprint'te Hedeflenenler:
+ Bir Sonraki Sprint'te Hedeflenenler:
 
 [ ] Basit chatbot arayüzü prototipi
 
@@ -117,10 +118,10 @@ UI geliştirme	Wireframe hazır, frontend framework belirlenecek	Streamlit ile b
 
 ---
 
-📷 Görsel Çıktılar
+ Görsel Çıktılar
 
-✅ Logo & sosyal preview hazır
+ Logo & sosyal preview hazır
 
-✅ Wireframe şeması üretildi
+ Wireframe şeması üretildi
 
-✅ Chatbot açılış ekranı taslağı oluşturuldu (kategoriler: Bilgi Al / Araştır / Sorun Tespit Et / Ortak Fayda)
+Chatbot açılış ekranı taslağı oluşturuldu (kategoriler: Bilgi Al / Araştır / Sorun Tespit Et / Ortak Fayda)
