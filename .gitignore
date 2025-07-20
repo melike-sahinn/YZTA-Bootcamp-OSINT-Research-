@@ -1,0 +1,27 @@
+# Sanal ortam klasörü
+venv/
+.venv/ # Bazı sistemlerde .venv olabilir
+
+# API anahtarları ve hassas bilgiler içeren dosyalar
+.env
+
+# Python derleme ve çalışma zamanı dosyaları
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# IDE dosyaları (PyCharm özelinde)
+.idea/
+
+# Veritabanı dosyaları (varsa)
+*.db
+*.sqlite3
+
+# Log dosyaları
+*.log
+logs/
+
+# İşletim sistemi geçici dosyaları
+.DS_Store
+Thumbs.db
