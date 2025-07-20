@@ -125,3 +125,66 @@ UI geliştirme	Wireframe hazır, frontend framework belirlenecek	Streamlit ile b
  Wireframe şeması üretildi
 
 Chatbot açılış ekranı taslağı oluşturuldu (kategoriler: Bilgi Al / Araştır / Sorun Tespit Et / Ortak Fayda)
+
+
+2.sprint
+
+Daily Scrum (Haftalık Değerlendirme)
+Gunluk iletişim ağırlıklı olarak WhatsApp üzerinden sağlanmıştır.
+Hafta içinde ihtiyaca bagli olarak birkaç kez informal şekilde toplu değerlendirme toplantıları yapılmıştır.
+Haftalik duzenli Google meet toplantilari yapilmistir.
+Rollerde ihtiyaca gore paylasima gidilmesine karar verilmistir.
+Fikrin genel akışı ve kullanıcı senaryoları için bir şema üzerinde uzlaşılmıştır.
+Mekanik yazılım geliştirme süreci için başlangıç tarihi belirlenmiş, modül öncelikleri sıraya alınmıştır.
+Proje fikrinin arastirma ve incelemelerle desteklenmesine karar verilmistir.
+ Sprint Review
+ Genel Amaç
+Bu sprintte, MOD 1 ve MOD 2 için geliştirme öncesi hazırlıklar yapıldı. Teknik ihtiyaçlar, kullanıcı senaryoları ve temel bileşenler belirlendi. Hedef, bir sonraki sprintte fonksiyonel prototiplemeye hazır bir zemin oluşturmaktı. Grup isleyisinin etkinliginin ve verimliginin artmasi icin iyilestirmeler yapilmasi planlandi.
+
+
+MOD 1 – Rehberlik Eden Asistan (Kullanıcının kendi araştırmasını yaptığı senaryo)
+Sprintte Yapılanlar:
+Kullanıcının arama sürecini nasıl adım adım yönlendireceği taslaklandı.
+Arayüzde yer alacak: “soru girme”, “konu tanıma”, “kaynak önerisi” bileşenleri belirlendi,.
+Backlog’a eklenecek modül: Anahtar kelime sınıflandırıcısı + kaynak eşleştirme algoritması.
+Grup ici gorev dagilimlari ve is takibi iyilestirmesi yapildi.
+Planlanan Yapı:
+Girdi ekranı → Konu sınıflandırması → Kaynak listesi → Araştırma adımları
+Eğitim odaklı, öğretici içeriklerle desteklenecek rehber akışı
+
+
+ MOD 2 – Otomatik Bilgi Toplayıcı Asistan (Hazır çıktı isteyen kullanıcı)
+Sprintte Yapılanlar:
+Hazır bilgi isteyen kullanıcı için minimum veri akışı kurgulandı
+Kullanılacak API ve veri kaynakları listelendi (AFAD, Google Maps, E-Devlet açık veri setleri vb.)
+Veri çekme → sadeleştirme → raporlama adımları belirlendi
+Planlanan Yapı:
+Sorgu ekranı → Web scraping/API → Etik kontrol → Sonuç ekranı (PDF / harita ile destekli)
+Gerektiğinde coğrafi görselleştirme ve çıktı alma modülü ile entegre çalışacak
+Sprint Sonuçları & Geri Bildirimler
+Tamamlanan Hazırlıklar
+ - MOD 1 ve MOD 2'nin kullanıcı hikâyeleri netleştirildi
+ - Teknik gereksinim listesi çıkarıldı (API, LLM, filtreleme, çıktı alma)
+ -  Geliştirme süreci için önceliklendirme listesi hazırlandı
+Elde Edilen Geri Bildirimler:
+MOD 1'in özellikle eğitsel yönü öne çıkarılmalı (pop-up, bilgi kutusu önerisi)
+MOD 2’nin sorgu sonrası ekranında sade ve net bir çıktı beklentisi var
+Geliştirme öncesi kullanıcı test senaryoları hazırlanmalı
+
+ Sonraki Sprint’e Aktarılanlar
+Kullanıcı arayüz prototipinin oluşturulması
+MOD 1 için konu–kaynak eşleştirme modülünün MVP’sine başlanması
+MOD 2 için ilk veri çekme testlerinin yapılması
+Etik kontrol mekanizmasının temel kurallarının backend'e entegre edilmesi
+EKLER ve Ekran Görüntüleri
+Aşağıda, “OSINT for Daily Life” projesine ilişkin örnek uygulama ekran görüntüleri yer almaktadır:
+
+
+
+
+
+
+
+
+
+
