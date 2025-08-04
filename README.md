@@ -20,7 +20,7 @@ Yerel yonetimlerle daha cozum odakli iletişim kurabilirler.
 
 
 
----
+
 
  1. Sprint Kapsamı
 
@@ -57,7 +57,7 @@ Chatbot mantığı planlandı		Soru türlerine göre rehberlik/otomatik çıktı
 
 
 
----
+
 
  Öne Çıkan User Story’ler
 
@@ -70,7 +70,7 @@ Kullanıcı İsteği	Ne Yapılacak	Katkısı
 
 
 
----
+
 
  Kullanıcı Profilleri
 
@@ -86,7 +86,7 @@ Kullanıcı İsteği	Ne Yapılacak	Katkısı
 
 
 
----
+
 
 Öğrenme ve Teknik Gelişim Planı
 
@@ -98,25 +98,24 @@ UI geliştirme	Wireframe hazır, frontend framework belirlenecek	Streamlit ile b
 
 
 
----
+
 
  Bir Sonraki Sprint'te Hedeflenenler:
 
-[ ] Basit chatbot arayüzü prototipi
+- Basit chatbot arayüzü prototipi
 
-[ ] İlk veri kaynağı bağlantısı (AFAD JSON, Google Maps)
+- İlk veri kaynağı bağlantısı (AFAD JSON, Google Maps)
 
-[ ] Konu-seçim sistemi için butonlu yapı
+- Konu-seçim sistemi için butonlu yapı
 
-[ ] Mod 1: “Kendi araştırmamı yapayım” akışının kurulması
+- Mod 1: “Kendi araştırmamı yapayım” akışının kurulması
 
-[ ] Chatbotun etik kontrol senaryolarını örnekleme
+- Chatbotun etik kontrol senaryolarını örnekleme
 
-[ ] Sprint sonunda 1 dakikalık demo video planı
+- Sprint sonunda 1 dakikalık demo video planı
 
 
 
----
 
  Görsel Çıktılar
 
