@@ -1,7 +1,7 @@
 # YZTA-Bootcamp-OSINT-Research-
 Proje Vizyonu
 
-"OSINT for Daily Life", bireylerin gündelik yaşamlarında karşılaştıkları sorunlara açık veri ile çözüm aramalarını kolaylaştıran, etik ilkelerle yönlendiren, yapay zekâ destekli bir dijital rehberdir.
+"OSINT for Daily Life", bireylerin gündelik yaşamlarında karşılaştıkları sorunlara çözüm aramalarını kolaylaştıran ya da "Mahallemde hava kirliliği arttı mı?” ve “Mahallede toplanma alanları nerede?” gibi bilgilere ulasimi açık veri ile ulasmalarini kolaylaştıran, etik ilkelerle yönlendiren, yapay zekâ destekli bir dijital rehberdir.
 
 Projede kullanıcılar:
 
