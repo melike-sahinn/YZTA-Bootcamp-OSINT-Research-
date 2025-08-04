@@ -18,6 +18,19 @@ Yerel sorunları fark eder,
 
 Yerel yonetimlerle daha cozum odakli iletişim kurabilirler.
 
+## 🖼️ Proje Görselleri – OSINT Araştırması
+
+### 📌 Sayfa 1
+![Screenshot 1](Screenshot%202025-07-20%207.09.08%20PM.png)
+
+### 📌 Sayfa 2
+![Screenshot 2](Screenshot%202025-07-20%207.09.19%20PM.png)
+
+### 📌 Sayfa 3
+![Screenshot 3](Screenshot%202025-07-20%207.10.07%20PM.png)
+
+### 📌 Sayfa 4
+![Screenshot 4](Screenshot%202025-07-20%207.11.04%20PM.png)
 
 
 
