@@ -245,6 +245,7 @@ Kullanıcı arayüzü taslakları ve yönlendirme metinleri
 
 
 Proje iletişim ve güncelleme sistematiği (haftalık toplantılar, WhatsApp takibi, görev dokümantasyonu)
+Osint Demo Video:https://youtu.be/J8r_Ca162GM?si=2tNfQHlx33NrmvVl
 
 
 
