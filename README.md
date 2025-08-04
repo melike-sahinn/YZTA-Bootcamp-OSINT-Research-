@@ -16,7 +16,7 @@ Araştırma ve sorgulama becerileri gelişir,
 
 Yerel sorunları fark eder,
 
-Belediyelerle daha bilinçli ve yapıcı iletişim kurabilirler.
+Yerel yonetimlerle daha cozum odakli iletişim kurabilirler.
 
 
 
@@ -178,6 +178,74 @@ MOD 2 için ilk veri çekme testlerinin yapılması
 Etik kontrol mekanizmasının temel kurallarının backend'e entegre edilmesi
 EKLER ve Ekran Görüntüleri
 Aşağıda, “OSINT for Daily Life” projesine ilişkin örnek uygulama ekran görüntüleri yer almaktadır:
+
+
+
+Üçüncü Sprint Raporu – “OSINT for Daily Life”
+Tarih Aralığı: 20 Temmuz - 3 Agustos
+Amaç: Bu sprintin temel hedefi, MOD 1 ve MOD 2 için geliştirilen yapıların düşük seviyeli prototiplerini oluşturmak, kullanıcı arayüzü için test edilebilir bir taslağa ulaşmak ve veri çekme süreçlerinde ilk işleyen örnekleri üretmekti. Ayrıca proje içi iletişimin sürdürülebilirliği için ekip içi koordinasyon yapısı sabitlendi.
+Ekip İletişimi ve Çalışma Düzeni
+Haftalık genel toplantılar Google Meet üzerinden her hafta belirli bir saatte gerçekleştirildi.
+
+
+MOD bazlı ekiplerin kendi aralarındaki koordinasyonu WhatsApp grupları üzerinden sağlandı.
+
+
+Görev dağılımları ve güncel ilerlemeler haftalık olarak paylaşıldı ve takip edildi.
+
+
+Ekip içi değişiklikler (örneğin, rol paylasimi) Sprint başında tanıtıldı.
+MOD 1 – Rehberlik Eden Asistan
+Yapılan Geliştirmeler:
+
+
+Girdi ekranı prototipi hazırlandı: Basit, yönlendirici sorularla kullanıcının araştırma konusunu şekillendirmesi sağlandı.
+
+
+“Mahallemde hava kirliliği arttı mı?” ve “Mahallede toplanma alanları ne durumda?” gibi örnek sorularla sistemin nasıl yol gösterdiği arastirildi.
+
+
+Kaynak öneri ekranı için görsel düzen arastirildi (airturkiye, AFAD, Google Maps gibi öneriler için ikon ve kısa açıklama entegrasyonu vs.).
+
+
+İçerik katmanı planlandı: Kullanıcıya rehberlik eden, eğitici mini açıklamalar (bilgi kutusu, pop-up) için metin taslağı üretildi.
+
+
+ MOD 2 – Otomatik Bilgi Toplayıcı Asistan
+Yapılan Geliştirmeler:
+“Mahallemde kaç toplanma alanı var?” sorusu örnek alınarak veri çekme testleri arastirildi (AFAD ve belediye kaynakları kullanıldı).
+
+
+Veri çekildikten sonra otomatik olarak görselleştirme (harita gösterimi) modülü ile entegre olacak yapı testine başlandi.
+
+
+Çıktı ekranı için taslak oluşturuldu: Sorguya özel sade PDF/dijital sonuç raporu şeması geliştirildi.
+
+
+Etik kontrol modülü için temel kurallar araştirildi (örn: veri kaynağının güvenilirliği, özel veri içerip içermediği, kullanım izni gibi maddeler).
+
+
+Geri Bildirimler ve İyileştirmeler
+MOD 1’de yönlendirmelerin fazla teknik olmaması gerektiği, daha sade bir anlatımla rehberliğin artırılabileceği belirtildi.
+
+
+MOD 2’de sonuç ekranlarının fazlasıyla metin ağırlıklı olduğu fark edildi. Görsel elementler (renkli ikonlar, özet kutuları) eklenmesine karar verildi.
+
+
+Kullanıcıya sadece veri değil, o verinin nasıl değerlendirilebileceğine dair notlar sunulması önerildi.
+
+
+ Bu Sprintte Tamamlananlar
+MOD 1 konu eşleştirme sistemi MVP'si
+
+
+MOD 2 veri çekme ve ilk sadeleştirme örnekleri
+
+
+Kullanıcı arayüzü taslakları ve yönlendirme metinleri
+
+
+Proje iletişim ve güncelleme sistematiği (haftalık toplantılar, WhatsApp takibi, görev dokümantasyonu)
 
 
 
